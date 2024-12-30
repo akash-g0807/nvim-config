@@ -5,4 +5,3 @@ To Do:
 - Copilot
 - Setup script
 - Plugin list
-# nvim-config
